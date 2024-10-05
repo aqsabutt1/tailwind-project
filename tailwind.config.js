@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./docs/**/*.{html,js}"],
   theme: {
     // in theme we add new logics with old logics and override old logics
     screens: {
